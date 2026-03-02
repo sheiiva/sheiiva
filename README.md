@@ -1,1 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheiiva&show_icons=true&theme=gruvbox&show_icons=true)
+[![GitHub Stats](https://github-vercel-deployment-beta.vercel.app/api?username=sheiiva&custom_title=GitHub+Stats&theme=dark&title_color=ffffff&text_color=afb0b1&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
+
+[![TOPS LANGS](https://github-vercel-deployment-beta.vercel.app/api/top-langs?username=sheiiva&layout=normal&stats_format=bytes&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=TOPS+LANGS&langs_count=50&hide_progress=true)](https://nice-readme.vercel.app/top-langs)
