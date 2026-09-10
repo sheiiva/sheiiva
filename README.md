@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4200&pause=500&color=D9BED1&width=820&lines=Terraform+%26+FinOps+Consultant;GCP+%2F+AWS+%C2%B7+Barcelona;Side+consulting+%C2%B7+async-first" alt="Consulting intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4200&pause=500&color=D9BED1&width=820&lines=Terraform+%26+FinOps+Consultant;GCP+%2F+AWS+%C2%B7+Barcelona;Async-first+%C2%B7+FR+%2F+EN+%2F+ES" alt="Consulting intro"/>
 </a>
 
 <img src="https://img.shields.io/badge/Offer-Terraform%20%26%20FinOps-7c5295?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform and FinOps"/>
@@ -9,12 +9,12 @@
 ### About
 I help teams stop running cloud “by hand”: reproducible infrastructure with **Terraform** and clearer cloud spend (**FinOps**) on **GCP** and **AWS**.
 
-Side consulting · ~10–15 h/week · async-first · Barcelona (FR / EN / ES)
+Based in Barcelona · FR / EN / ES · async-first delivery
 
 ### Packs
 - **Cost & IaC Audit** — cloud + Terraform readiness + 30/60/90 roadmap
 - **Terraform Sprint** — modular IaC, environments, CI basics, handoff
-- **Retainer** — 10–15 h/month async support
+- **Retainer** — ongoing async support for Terraform & FinOps
 - **Custom** — fixed-scope / short B2B next to Terraform · FinOps · platform IaC
 
 ### Skills
@@ -22,7 +22,7 @@ Side consulting · ~10–15 h/week · async-first · Barcelona (FR / EN / ES)
 
 ### Links
 > [!IMPORTANT]
-> [Consulting site / resume](https://sheiiva.github.io/resume/) · [Portfolio cases](https://sheiiva.github.io/resume/#portfolio) · [Contact](https://sheiiva.github.io/resume/#contact)
+> [Consulting site](https://sheiiva.github.io/resume/) · [Portfolio cases](https://sheiiva.github.io/resume/#portfolio) · [FinOps dashboard](https://sheiiva.github.io/finops-dashboard/) · [Contact](https://sheiiva.github.io/resume/#contact)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corentin-coutret-rozet/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheiiva)
