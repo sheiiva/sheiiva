@@ -1,0 +1,42 @@
+name: daily-log
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-log
+  cancel-in-progress: false
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Append day
+        run: |
+          mkdir -p log
+          day="$(date -u +%F)"
+          touch log/days.md
+          if grep -qxF "$day" log/days.md; then
+            echo "Already logged $day"
+          else
+            echo "$day" >> log/days.md
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "sheiiva"
+          git config user.email "46278352+sheiiva@users.noreply.github.com"
+          git add log/days.md
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "chore: daily log $(date -u +%F)"
+          git push
