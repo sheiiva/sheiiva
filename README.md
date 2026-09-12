@@ -40,17 +40,6 @@ Based in Barcelona · FR / EN / ES · async-first delivery
   />
 </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sheiiva&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheiiva&layout=compact&hide_border=true&cache_seconds=86400"
-    alt="Top languages"
-  />
-</picture>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=sheiiva&theme=tokyonight&hide_border=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
